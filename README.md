@@ -126,7 +126,7 @@ The script automatically maps LeetCode languages to file extensions, including:
 ---
 
 ## 📜 Disclaimer
-
+*This project is a personal automation tool intended for educational and archival purposes.
 * All fetched source code belongs to the authenticated user
 * No LeetCode editorial content is redistributed
 * Problem descriptions are **not copied** into this repository
