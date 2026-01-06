@@ -2,7 +2,7 @@
 
 ---
 
-# 🚀 LeetCode Accepted Submissions Fetcher (Automation Script)
+# 🚀 LeetCode Accepted Submissions Fetcher (Python Script)
 
 ## 📌 Overview
 
