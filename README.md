@@ -24,7 +24,7 @@ This is an **original implementation**, created to solve a personal workflow pro
   * One folder per problem
   * One file per accepted submission
 * Supports **multiple programming languages**
-* Names files using **submission IDs** for uniqueness
+* Names files using ** problem name.lang ** for correctness
 * Optionally generates metadata-based README files per problem (configurable)
 
 ---
