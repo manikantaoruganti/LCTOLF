@@ -34,12 +34,12 @@ This is an **original implementation**, created to solve a personal workflow pro
 ```
 SAVE_ROOT/
  ├── Problem_Name_One/
- │    ├── exampleid.cpp #these will be your submission-id of your specific LC problem submission
- │    ├── exampleid.rs
- │    └── README.md
+ │    ├── problemname.cpp #these will be your submission-id of your specific LC problem submission
+ │    ├── problemname.rs
+ │    └── problemname.md
  ├── Problem_Name_Two/
- │    ├── exampleid.java
- │    └── README.md
+ │    ├── problemname.java
+ │    └── problemname.md
 ```
 
 Each solution file corresponds to a **real accepted submission**.
